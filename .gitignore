@@ -1,0 +1,8 @@
+*.zip
+*.png
+*.pdf
+*.txt
+*.data
+.ipynb*
+cmake-build-debug/
+.idea/
